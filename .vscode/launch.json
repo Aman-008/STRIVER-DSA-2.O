@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/amanp/STRIVER-DSA",
-      "program": "c:/Users/amanp/STRIVER-DSA/build/Debug/outDebug",
+      "cwd": "c:/Users/amanp/STRIVER-DSA-2.O/Patterns",
+      "program": "c:/Users/amanp/STRIVER-DSA-2.O/Patterns/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
