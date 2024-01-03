@@ -256,6 +256,24 @@ void pattern16(int n){
         cout << endl;
     }
 }
+
+
+void pattern17(int n){
+	char ch='A';
+	for(int i=0;i<n;i++){
+        
+        //space
+        for(int j=0;j<n-i-1;j++){
+            cout << " ";
+        }
+        //stars
+		for(int j=0;j<2*i+1;j++){
+			cout << ch ;
+		}
+			ch += 1;
+		cout << endl;
+	}
+}
 int main()
 {
     int t;
@@ -264,7 +282,7 @@ int main()
     {
         int n;
         cin >> n;
-        pattern16(n);
+        pattern17(n);
     }
 
     return 0;
