@@ -1,4 +1,4 @@
-   A
-  BBB
- CCCCC
-DDDDDDD
+   A   
+  ABA  
+ ABCBA 
+ABCDCBA
